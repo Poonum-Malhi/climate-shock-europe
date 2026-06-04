@@ -36,7 +36,7 @@ rather than being hurt by them.
 ## Tools
 `Python` `pandas` `wbgapi` `Our World in Data` `plotly` `statsmodels` `Google Colab`
 
-[🗺️ View Interactive Map](https://htmlpreview.github.io/?https://github.com/Poonum-Malhi/climate-shock-europe/blob/main/climate_shock_map.html)
+[🗺️ View Interactive Map](https://poonum-malhi.github.io/climate-shock-europe/climate_shock_map.html)
 
 ## Europe Under Pressure — Full Series
 | Project | Question | p-value | Finding |
