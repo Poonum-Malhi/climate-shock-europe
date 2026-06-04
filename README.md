@@ -1,4 +1,3 @@
-# climate-shock-europe
 # Climate Shock — Europe
 ### Part 3 of the *Europe Under Pressure* Series
 
@@ -14,9 +13,9 @@ Higher CBAM exposure is **negatively and significantly associated** with unemplo
 (coefficient: -5.65, p=0.009, R²=0.394).
 
 This is the **strongest and only statistically significant result** in the series:
-- Part 1 China Shock — p: 0.3 ❌
-- Part 2 AI Shock — p: 0.518 ❌  
-- Part 3 Climate Shock — p: 0.009 ✅
+- Part 1 China Shock — p: 0.3 
+- Part 2 AI Shock — p: 0.518 
+- Part 3 Climate Shock — p: 0.009 
 
 Interpretation: High-carbon industrial economies (Czech Republic, Germany, Netherlands) 
 already have low unemployment — suggesting they are adapting to green transition pressures 
@@ -30,7 +29,7 @@ rather than being hurt by them.
 |--------|-------|
 | Coefficient on CBAM exposure | -5.65 |
 | R-squared | 0.394 |
-| p-value | 0.009 ✅ |
+| p-value | 0.009  |
 | Most exposed country | Czech Republic |
 | Least exposed country | Romania |
 
@@ -42,7 +41,7 @@ rather than being hurt by them.
 |---------|----------|---------|---------|
 | [Part 1 — China Shock](https://github.com/Poonum-Malhi/china-shock-europe) | Did Chinese imports raise EU unemployment? | 0.3 | No — industrial upgrading offset the shock |
 | [Part 2 — AI Shock](https://github.com/Poonum-Malhi/Europe-under-pressure-first-China-now-AI) | Does AI exposure raise EU unemployment? | 0.518 | No — not yet significant |
-| Part 3 — Climate Shock (this repo) | Does CBAM exposure raise EU unemployment? | 0.009 ✅ | Significant — but direction is surprising |
+| Part 3 — Climate Shock (this repo) | Does CBAM exposure raise EU unemployment? | 0.009  | Significant — but direction is surprising |
 
 ## Data Sources
 - World Bank API (wbgapi) — Manufacturing & Unemployment
