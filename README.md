@@ -1,4 +1,4 @@
-# Climate Shock — Europe
+# Climate Shock Europe
 ### Part 3 of the *Europe Under Pressure* Series
 
 Analyzing CBAM (Carbon Border Adjustment Mechanism) exposure across 16 EU economies using Python.
@@ -13,9 +13,9 @@ Higher CBAM exposure is **negatively and significantly associated** with unemplo
 (coefficient: -5.65, p=0.009, R²=0.394).
 
 This is the **strongest and only statistically significant result** in the series:
-- Part 1 China Shock — p: 0.3 
-- Part 2 AI Shock — p: 0.518 
-- Part 3 Climate Shock — p: 0.009 
+- Part 1 China Shock p: 0.3 
+- Part 2 AI Shock  p: 0.518 
+- Part 3 Climate Shock  p: 0.009 
 
 Interpretation: High-carbon industrial economies (Czech Republic, Germany, Netherlands) 
 already have low unemployment — suggesting they are adapting to green transition pressures 
