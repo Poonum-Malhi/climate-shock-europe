@@ -3,7 +3,7 @@
 
 Analyzing CBAM (Carbon Border Adjustment Mechanism) exposure across 16 EU economies using Python.
 
----
+
 
 ## Research Question
 Are countries with higher carbon-industrial exposure experiencing higher unemployment in Europe?
@@ -12,7 +12,7 @@ Are countries with higher carbon-industrial exposure experiencing higher unemplo
 Higher CBAM exposure is **negatively and significantly associated** with unemployment 
 (coefficient: -5.65, p=0.009, R²=0.394).
 
-This is the **strongest and only statistically significant result** in the series:
+This is the **statistically strongestest significant result** in the series:
 - Part 1 China Shock p: 0.3 
 - Part 2 AI Shock  p: 0.518 
 - Part 3 Climate Shock  p: 0.009 
